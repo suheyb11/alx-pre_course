@@ -1,17 +1,1 @@
-git status (enter) to check the status of your work
-
-
-
-git add . (enter)
-
-
-
-git status (enter) to check the status of your work if the previous works has been added.
-
-
-
-git commit -m “How to be up to date in git” (enter)
-
-
-
-git push`
+git pull https://github.com/suheyb11/alx-pre_course/tree/update_script/0x01-git
